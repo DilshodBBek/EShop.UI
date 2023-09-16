@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace EShop.Domain.Entities;
 public class User
 {
+    //Change
     public int Id { get; set; }
     public string Name { get; set; }
     public string EmailLogin { get; set; }
